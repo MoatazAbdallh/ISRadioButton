@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 	spec.name = 'ISRadioButton'
-	spec.version = '0.2'
+	spec.version = '1.0'
 	spec.summary = 'Radio button written in Swift.'
 	spec.homepage = 'https://github.com/hash3r/ISRadioButton'
 	spec.license = 'MIT'
